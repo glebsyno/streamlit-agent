@@ -1,3 +1,5 @@
+%pip install pymysql
+
 import streamlit as st
 from pathlib import Path
 from langchain.llms.openai import OpenAI
